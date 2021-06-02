@@ -1,6 +1,6 @@
-# ASM Final Project
+# ASM Final Assignment
 
-This is my final project for my ASM class in university
+This is my final assignment for my ASM class in university
 
 The missing png files can be found here:
 - mario sprite.png: https://www.vg-resource.com/archive/index.php/thread-22879.html
